@@ -86,7 +86,7 @@ O jogo será exibido no terminal, mostrando o status dos personagens e as açõe
 ## Conclusão
 Este projeto é uma excelente maneira de praticar conceitos de programação concorrente e manipulação de threads em Python.  
 Ele demonstra como threads podem ser usadas para simular interações complexas entre múltiplos agentes em um ambiente controlado.
-
+Foi feito durante o segundo módulo de Análise e Desenvolvimento de Sistemas com o propósito de trabalhar com threads.
 ---
 
 **Autor:** Cairon Ferreira Prado, Cícero Andrade Santos e Matusalen Costa Alves 
